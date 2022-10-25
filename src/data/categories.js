@@ -1,0 +1,2 @@
+// eslint-disable-next-line import/no-anonymous-default-export
+export default {"1":{"id":1,"name":"Royal Mail Strikes","color":"#DC3232"},"2":{"id":2,"name":"Rail Strikes","color":"#165e98"},"3":{"id":3,"name":"TfL Strikes","color":"#388e3c"},"4":{"id":4,"name":"Bus Strikes","color":"#8e24aa"},"1000":{"id":1000,"name":"Other Strikes","color":"#e65100"}}
