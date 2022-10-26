@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221022
 DTEND;VALUE=DATE:20221023
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221022T231822Z-00001@strike.relevant.space
 CREATED:20221022T231822Z
 DESCRIPTION:The RMT union has announced strike action for Avanti West Coast Train Managers on 22 October and 6 November.\n\nRelated Articles\n- Avanti West Coast rail services axed amid strike action: https://www.bbc.co.uk/news/uk-england-63346438 (Source: BBC)\n- Strike action travel information: https://www.avantiwestcoast.co.uk/travel-information/strike (Source: Avanti West Coast)\n
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221106
 DTEND;VALUE=DATE:20221107
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221022T231904Z-00002@strike.relevant.space
 CREATED:20221022T231904Z
 DESCRIPTION:The RMT union has announced strike action for Avanti West Coast Train Managers on 22 October and 6 November.\n\nRelated Articles\n- Avanti West Coast rail services axed amid strike action: https://www.bbc.co.uk/news/uk-england-63346438 (Source: BBC)\n- Strike action travel information: https://www.avantiwestcoast.co.uk/travel-information/strike (Source: Avanti West Coast)\n
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221025
 DTEND;VALUE=DATE:20221026
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T110056Z-00003@strike.relevant.space
 CREATED:20221024T110056Z
 DESCRIPTION:Royal Mail workers are taking strike action over pay and conditions which will include 19 days of industrial action, including Black Friday.\n\nRelated Articles\n- Royal Mail workers walk out in first of 19 days of strikes: https://www.bbc.co.uk/news/business-63235826 (Source: BBC)\n- Royal Mail Group Strike: https://www.cwu.org/rmgstrikeinfo (Source: CWU)\n- Services during Industrial Action: https://www.royalmail.com/latest-news (Source: Royal Mail)\n
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221102
 DTEND;VALUE=DATE:20221105
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T110139Z-00004@strike.relevant.space
 CREATED:20221024T110139Z
 DESCRIPTION:Royal Mail workers are taking strike action over pay and conditions which will include 19 days of industrial action, including Black Friday.\n\nRelated Articles\n- Royal Mail workers walk out in first of 19 days of strikes: https://www.bbc.co.uk/news/business-63235826 (Source: BBC)\n- Royal Mail Group Strike: https://www.cwu.org/rmgstrikeinfo (Source: CWU)\n- Services during Industrial Action: https://www.royalmail.com/latest-news (Source: Royal Mail)\n
@@ -68,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221108
 DTEND;VALUE=DATE:20221111
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T110212Z-00005@strike.relevant.space
 CREATED:20221024T110212Z
 DESCRIPTION:Royal Mail workers are taking strike action over pay and conditions which will include 19 days of industrial action, including Black Friday.\n\nRelated Articles\n- Royal Mail workers walk out in first of 19 days of strikes: https://www.bbc.co.uk/news/business-63235826 (Source: BBC)\n- Royal Mail Group Strike: https://www.cwu.org/rmgstrikeinfo (Source: CWU)\n- Services during Industrial Action: https://www.royalmail.com/latest-news (Source: Royal Mail)\n
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221114
 DTEND;VALUE=DATE:20221117
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T110248Z-00006@strike.relevant.space
 CREATED:20221024T110248Z
 DESCRIPTION:Royal Mail workers are taking strike action over pay and conditions which will include 19 days of industrial action, including Black Friday.\n\nRelated Articles\n- Royal Mail workers walk out in first of 19 days of strikes: https://www.bbc.co.uk/news/business-63235826 (Source: BBC)\n- Royal Mail Group Strike: https://www.cwu.org/rmgstrikeinfo (Source: CWU)\n- Services during Industrial Action: https://www.royalmail.com/latest-news (Source: Royal Mail)\n
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221123
 DTEND;VALUE=DATE:20221126
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T110332Z-00007@strike.relevant.space
 CREATED:20221024T110332Z
 DESCRIPTION:Royal Mail workers are taking strike action over pay and conditions which will include 19 days of industrial action, including Black Friday.\n\nRelated Articles\n- Royal Mail workers walk out in first of 19 days of strikes: https://www.bbc.co.uk/news/business-63235826 (Source: BBC)\n- Royal Mail Group Strike: https://www.cwu.org/rmgstrikeinfo (Source: CWU)\n- Services during Industrial Action: https://www.royalmail.com/latest-news (Source: Royal Mail)\n
@@ -113,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221128
 DTEND;VALUE=DATE:20221129
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T110400Z-00008@strike.relevant.space
 CREATED:20221024T110400Z
 DESCRIPTION:Royal Mail workers are taking strike action over pay and conditions which will include 19 days of industrial action, including Black Friday.\n\nRelated Articles\n- Royal Mail workers walk out in first of 19 days of strikes: https://www.bbc.co.uk/news/business-63235826 (Source: BBC)\n- Royal Mail Group Strike: https://www.cwu.org/rmgstrikeinfo (Source: CWU)\n- Services during Industrial Action: https://www.royalmail.com/latest-news (Source: Royal Mail)\n
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221130
 DTEND;VALUE=DATE:20221203
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T110506Z-00009@strike.relevant.space
 CREATED:20221024T110506Z
 DESCRIPTION:Royal Mail workers are taking strike action over pay and conditions which will include 19 days of industrial action, including Black Friday.\n\nRelated Articles\n- Royal Mail workers walk out in first of 19 days of strikes: https://www.bbc.co.uk/news/business-63235826 (Source: BBC)\n- Royal Mail Group Strike: https://www.cwu.org/rmgstrikeinfo (Source: CWU)\n- Services during Industrial Action: https://www.royalmail.com/latest-news (Source: Royal Mail)\n
@@ -141,12 +141,12 @@ X-SC-COLOR:#DC3232
 X-SC-EVENTID: 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221103
-DTEND;VALUE=DATE:20221104
-DTSTAMP:20221025T110909Z
+DTSTART;VALUE=DATE:20221109
+DTEND;VALUE=DATE:20221110
+DTSTAMP:20221026T051820Z
 UID:20221024T151005Z-00010@strike.relevant.space
 CREATED:20221024T151005Z
-DESCRIPTION:Rail union RMT is taking 3 days of coordinated strike action in November. The strike will affect national rail services and take place on November 3, 5 and 7.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Industrial Action on National Rail: https://www.nationalrail.co.uk/service_disruptions/industrialaction.aspx (Source: National Rail)\n
+DESCRIPTION:Rail union RMT is taking 3 days of coordinated strike action in November. The strike will affect national rail services and take place on November 5, 7 and 9. Strike action that was planned to take place on 3 November has been moved to 9 November to avoid a clash with the Royal British Legion's London Poppy Day appeal.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Industrial Action on National Rail: https://www.nationalrail.co.uk/service_disruptions/industrialaction.aspx (Source: National Rail)\n- Rail strike date moved over London Poppy Day clash: https://www.bbc.co.uk/news/uk-england-london-63388658 (Source: BBC)\n
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:National Rail Strikes
@@ -158,10 +158,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221105
 DTEND;VALUE=DATE:20221106
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T151026Z-00011@strike.relevant.space
 CREATED:20221024T151026Z
-DESCRIPTION:Rail union RMT is taking 3 days of coordinated strike action in November. The strike will affect national rail services and take place on November 3, 5 and 7.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Industrial Action on National Rail: https://www.nationalrail.co.uk/service_disruptions/industrialaction.aspx (Source: National Rail)\n
+DESCRIPTION:Rail union RMT is taking 3 days of coordinated strike action in November. The strike will affect national rail services and take place on November 5, 7 and 9. Strike action that was planned to take place on 3 November has been moved to 9 November to avoid a clash with the Royal British Legion's London Poppy Day appeal.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Industrial Action on National Rail: https://www.nationalrail.co.uk/service_disruptions/industrialaction.aspx (Source: National Rail)\n- Rail strike date moved over London Poppy Day clash: https://www.bbc.co.uk/news/uk-england-london-63388658 (Source: BBC)\n
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:National Rail Strikes
@@ -173,10 +173,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221107
 DTEND;VALUE=DATE:20221108
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T151055Z-00012@strike.relevant.space
 CREATED:20221024T151055Z
-DESCRIPTION:Rail union RMT is taking 3 days of coordinated strike action in November. The strike will affect national rail services and take place on November 3, 5 and 7.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Industrial Action on National Rail: https://www.nationalrail.co.uk/service_disruptions/industrialaction.aspx (Source: National Rail)\n
+DESCRIPTION:Rail union RMT is taking 3 days of coordinated strike action in November. The strike will affect national rail services and take place on November 5, 7 and 9. Strike action that was planned to take place on 3 November has been moved to 9 November to avoid a clash with the Royal British Legion's London Poppy Day appeal.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Industrial Action on National Rail: https://www.nationalrail.co.uk/service_disruptions/industrialaction.aspx (Source: National Rail)\n- Rail strike date moved over London Poppy Day clash: https://www.bbc.co.uk/news/uk-england-london-63388658 (Source: BBC)\n
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:National Rail Strikes
@@ -186,9 +186,9 @@ X-SC-COLOR:#165e98
 X-SC-EVENTID: 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20221103
-DTEND;VALUE=DATE:20221104
-DTSTAMP:20221025T110909Z
+DTSTART;VALUE=DATE:20221110
+DTEND;VALUE=DATE:20221111
+DTSTAMP:20221026T051820Z
 UID:20221024T152417Z-00013@strike.relevant.space
 CREATED:20221024T152417Z
 DESCRIPTION:RMT members at London Underground and London Overground will take strike action on 3 November. The strike will affect Tube, London Overground, and Elizabeth line services.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Tube and national rail strikes - 3, 5 and 7 November: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -203,7 +203,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221024
 DTEND;VALUE=DATE:20221029
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T153147Z-00014@strike.relevant.space
 CREATED:20221024T153147Z
 DESCRIPTION:Members of the Unite union on the Woolwich Ferry will be taking strike action from 24 to 28 October.\n\nRelated Articles\n- Woolwich Ferry workers vote to strike over pay: https://www.bbc.co.uk/news/uk-england-london-62921057 (Source: BBC)\n- Woolwich Ferry faces 5-day strike as TfL fails workers: https://www.unitetheunion.org/news-events/news/2022/october/woolwich-ferry-faces-5-day-strike-as-tfl-fails-workers/ (Source: Unite the Union)\n- Woolwich Ferry strikes: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -218,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221031
 DTEND;VALUE=DATE:20221108
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T154034Z-00015@strike.relevant.space
 CREATED:20221024T154034Z
 DESCRIPTION:Co-op's coffin factory workers are taking strike action in a pay dispute. The strike action is planned to take place between 31 October and 7 November.\n\nRelated Articles\n- Co-op coffin factory workers to launch strike action: https://www.bbc.co.uk/news/uk-scotland-scotland-business-63302155 (Source: BBC)\n- Strike action set to hit Co-op coffin factory based in Glasgow: https://www.unitetheunion.org/news-events/news/2022/october/strike-action-set-to-hit-co-op-coffin-factory-based-in-glasgow/ (Source: Unite the Union)\n
@@ -233,7 +233,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221029
 DTEND;VALUE=DATE:20221030
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T223732Z-00016@strike.relevant.space
 CREATED:20221024T223732Z
 DESCRIPTION:The RMT announced that its ScotRail general grades members will take part in 24-hour strike action on Saturday, 29 October resulting from a pay dispute.\n\nRelated Articles\n- ScotRail staff to strike at the end of October after overtime ban: https://www.bbc.co.uk/news/uk-scotland-63251097 (Source: BBC)\n- RMT ScotRail strike - 29 October: https://www.scotrail.co.uk/plan-your-journey/passenger-disruption/industrial-action (Source: ScotRail)\n
@@ -248,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221105
 DTEND;VALUE=DATE:20221106
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T230325Z-00017@strike.relevant.space
 CREATED:20221024T230325Z
 DESCRIPTION:RMT members at London Underground and London Overground will take strike action on 3 November. The strike will affect Tube, London Overground, and Elizabeth line services.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Tube and national rail strikes - 3, 5 and 7 November: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -263,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221107
 DTEND;VALUE=DATE:20221108
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221024T230349Z-00018@strike.relevant.space
 CREATED:20221024T230349Z
 DESCRIPTION:RMT members at London Underground and London Overground will take strike action on 3 November. The strike will affect Tube, London Overground, and Elizabeth line services.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Tube and national rail strikes - 3, 5 and 7 November: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -278,7 +278,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221010
 DTEND;VALUE=DATE:20221011
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221025T000208Z-00019@strike.relevant.space
 CREATED:20221025T000208Z
 DESCRIPTION:RMT members working on buses in Somerset, and Cornwall will take strike action for four days from October 10, in a fight over pay and conditions.\n\nRelated Articles\n- Bus workers in Somerset and Cornwall announce strike action: https://www.bbc.co.uk/news/uk-england-somerset-63186004 (Source: BBC)\n- Bus Workers to Take Strike Action: https://www.rmt.org.uk/news/bus-workers-to-take-strike-action/ (Source: RMT)\n
@@ -293,7 +293,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221021
 DTEND;VALUE=DATE:20221022
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221025T000208Z-00020@strike.relevant.space
 CREATED:20221025T000208Z
 DESCRIPTION:RMT members working on buses in Somerset, and Cornwall will take strike action for four days from October 10, in a fight over pay and conditions.\n\nRelated Articles\n- Bus workers in Somerset and Cornwall announce strike action: https://www.bbc.co.uk/news/uk-england-somerset-63186004 (Source: BBC)\n- Bus Workers to Take Strike Action: https://www.rmt.org.uk/news/bus-workers-to-take-strike-action/ (Source: RMT)\n
@@ -308,7 +308,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221104
 DTEND;VALUE=DATE:20221105
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221025T000208Z-00021@strike.relevant.space
 CREATED:20221025T000208Z
 DESCRIPTION:RMT members working on buses in Somerset, and Cornwall will take strike action for four days from October 10, in a fight over pay and conditions.\n\nRelated Articles\n- Bus workers in Somerset and Cornwall announce strike action: https://www.bbc.co.uk/news/uk-england-somerset-63186004 (Source: BBC)\n- Bus Workers to Take Strike Action: https://www.rmt.org.uk/news/bus-workers-to-take-strike-action/ (Source: RMT)\n
@@ -323,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221111
 DTEND;VALUE=DATE:20221112
-DTSTAMP:20221025T110909Z
+DTSTAMP:20221026T051820Z
 UID:20221025T000208Z-00022@strike.relevant.space
 CREATED:20221025T000208Z
 DESCRIPTION:RMT members working on buses in Somerset, and Cornwall will take strike action for four days from October 10, in a fight over pay and conditions.\n\nRelated Articles\n- Bus workers in Somerset and Cornwall announce strike action: https://www.bbc.co.uk/news/uk-england-somerset-63186004 (Source: BBC)\n- Bus Workers to Take Strike Action: https://www.rmt.org.uk/news/bus-workers-to-take-strike-action/ (Source: RMT)\n
@@ -334,5 +334,20 @@ TRANSP:TRANSPARENT
 CATEGORIES:Bus Strikes
 X-SC-COLOR:#8e24aa
 X-SC-EVENTID: 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20221022
+DTEND;VALUE=DATE:20221031
+DTSTAMP:20221026T051820Z
+UID:20221025T213131Z-00023@strike.relevant.space
+CREATED:20221025T213131Z
+DESCRIPTION:PCS members announce nine-day strike across 65 magistrates’ courts in England and Wales over controversial Common Platform system.\n\nRelated Articles\n- PCS members announce nine-day courts strike: https://www.pcs.org.uk/news-events/news/pcs-members-announce-nine-day-courts-strike (Source: PCS)\n- HMCTS Common Platform Dispute: Strike FAQ: https://www.pcs.org.uk/news-events/news/hmcts-common-platform-dispute-strike-faq (Source: PCS)\n- Court IT system 'putting justice at risk', staff claim: https://www.bbc.co.uk/news/uk-62722855 (Source: BBC)\n
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Court Staff Strikes
+TRANSP:TRANSPARENT
+CATEGORIES:Other Strikes
+X-SC-COLOR:#e65100
+X-SC-EVENTID: 9
 END:VEVENT
 END:VCALENDAR
