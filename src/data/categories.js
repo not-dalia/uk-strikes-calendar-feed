@@ -1,2 +1,2 @@
 // eslint-disable-next-line import/no-anonymous-default-export
-export default {"1":{"id":1,"name":"Royal Mail","color":"#DC3232"},"2":{"id":2,"name":"Bus, Rail, and TfL","color":"#165e98"},"5":{"id":5,"name":"Air Travel","color":"#388e3c"},"6":{"id":6,"name":"Education","color":"#0097a7"},"1000":{"id":1000,"name":"Other Strikes","color":"#e65100"}}
+export default {"1":{"id":1,"name":"Royal Mail","color":"#DC3232"},"2":{"id":2,"name":"Bus, Rail, and TfL","color":"#165e98"},"5":{"id":5,"name":"Air Travel","color":"#388e3c"},"6":{"id":6,"name":"Education","color":"#0097a7"},"7":{"id":7,"name":"Health Services","color":"#8e24aa"},"1000":{"id":1000,"name":"Other Strikes","color":"#e65100"}}
