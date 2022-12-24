@@ -8,7 +8,7 @@ X-WR-TIMEZONE:Europe/London
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221022
 DTEND;VALUE=DATE:20221023
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221022T231822Z-00001@strike.relevant.space
 CREATED:20221022T231822Z
 DESCRIPTION:Rail union RMT has supended the planned strike action in November. However, some Avanti West Coast services remain limited due to the short-notice cancellation.\n\nRelated Articles\n- Avanti West Coast rail services axed amid strike action: https://www.bbc.co.uk/news/uk-england-63346438 (Source: BBC)\n- Strike action travel information: https://www.avantiwestcoast.co.uk/travel-information/strike (Source: Avanti West Coast)\n
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221106
 DTEND;VALUE=DATE:20221107
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221022T231904Z-00002@strike.relevant.space
 CREATED:20221022T231904Z
 DESCRIPTION:Rail union RMT has supended the planned strike action in November. However, some Avanti West Coast services remain limited due to the short-notice cancellation.\n\nRelated Articles\n- Avanti West Coast rail services axed amid strike action: https://www.bbc.co.uk/news/uk-england-63346438 (Source: BBC)\n- Strike action travel information: https://www.avantiwestcoast.co.uk/travel-information/strike (Source: Avanti West Coast)\n
@@ -38,7 +38,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221025
 DTEND;VALUE=DATE:20221026
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221024T110056Z-00003@strike.relevant.space
 CREATED:20221024T110056Z
 DESCRIPTION:Royal Mail workers are taking strike action over pay and conditions which will include two 48-hour strikes around the weeks of Black Friday and Cyber Monday.\n\nRelated Articles\n- Royal Mail workers walk out in first of 19 days of strikes: https://www.bbc.co.uk/news/business-63235826 (Source: BBC)\n- Royal Mail Group Strike: https://www.cwu.org/rmgstrikeinfo (Source: CWU)\n- Services during Industrial Action: https://www.royalmail.com/latest-news (Source: Royal Mail)\n- Royal Mail staff call off planned strike action: https://www.bbc.co.uk/news/business-63446176 (Source: BBC)\n- Royal Mail postal workers to strike on Black Friday: https://www.bbc.co.uk/news/business-63478657 (Source: BBC)\n
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221109
 DTEND;VALUE=DATE:20221110
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221024T151005Z-00010@strike.relevant.space
 CREATED:20221024T151005Z
 DESCRIPTION:Rail union RMT has supended the planned strike action in November. However, some national rail services remain limited due to the short-notice cancellation.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Industrial Action on National Rail: https://www.nationalrail.co.uk/service_disruptions/industrialaction.aspx (Source: National Rail)\n- Rail strike date moved over London Poppy Day clash: https://www.bbc.co.uk/news/uk-england-london-63388658 (Source: BBC)\n- Train strikes: Series of walkouts from Saturday suspended: https://www.bbc.co.uk/news/business-63510380 (Source: BBC)\n- RMT Suspends Rail Strikes: https://www.rmt.org.uk/news/rmt-suspends-rail-strikes/ (Source: RMT)\n
@@ -68,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221105
 DTEND;VALUE=DATE:20221106
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221024T151026Z-00011@strike.relevant.space
 CREATED:20221024T151026Z
 DESCRIPTION:Rail union RMT has supended the planned strike action in November. However, some national rail services remain limited due to the short-notice cancellation.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Industrial Action on National Rail: https://www.nationalrail.co.uk/service_disruptions/industrialaction.aspx (Source: National Rail)\n- Rail strike date moved over London Poppy Day clash: https://www.bbc.co.uk/news/uk-england-london-63388658 (Source: BBC)\n- Train strikes: Series of walkouts from Saturday suspended: https://www.bbc.co.uk/news/business-63510380 (Source: BBC)\n- RMT Suspends Rail Strikes: https://www.rmt.org.uk/news/rmt-suspends-rail-strikes/ (Source: RMT)\n
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221107
 DTEND;VALUE=DATE:20221108
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221024T151055Z-00012@strike.relevant.space
 CREATED:20221024T151055Z
 DESCRIPTION:Rail union RMT has supended the planned strike action in November. However, some national rail services remain limited due to the short-notice cancellation.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- RMT Announces New Network Rail Strike Dates: https://www.rmt.org.uk/news/rmt-announces-new-network-rail-strike-dates/ (Source: RMT)\n- Industrial Action on National Rail: https://www.nationalrail.co.uk/service_disruptions/industrialaction.aspx (Source: National Rail)\n- Rail strike date moved over London Poppy Day clash: https://www.bbc.co.uk/news/uk-england-london-63388658 (Source: BBC)\n- Train strikes: Series of walkouts from Saturday suspended: https://www.bbc.co.uk/news/business-63510380 (Source: BBC)\n- RMT Suspends Rail Strikes: https://www.rmt.org.uk/news/rmt-suspends-rail-strikes/ (Source: RMT)\n
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221110
 DTEND;VALUE=DATE:20221111
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221024T152417Z-00013@strike.relevant.space
 CREATED:20221024T152417Z
 DESCRIPTION:Disruptions to national rail and some TfL services that share track with Network Rail.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- National rail strikes suspended: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -113,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221024
 DTEND;VALUE=DATE:20221029
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221024T153147Z-00014@strike.relevant.space
 CREATED:20221024T153147Z
 DESCRIPTION:Members of the Unite union on the Woolwich Ferry will be taking strike action from 24 to 28 October.\n\nRelated Articles\n- Woolwich Ferry workers vote to strike over pay: https://www.bbc.co.uk/news/uk-england-london-62921057 (Source: BBC)\n- Woolwich Ferry faces 5-day strike as TfL fails workers: https://www.unitetheunion.org/news-events/news/2022/october/woolwich-ferry-faces-5-day-strike-as-tfl-fails-workers/ (Source: Unite the Union)\n- Woolwich Ferry strikes: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -128,7 +128,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221031
 DTEND;VALUE=DATE:20221108
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221024T154034Z-00015@strike.relevant.space
 CREATED:20221024T154034Z
 DESCRIPTION:Co-op's coffin factory workers are taking strike action in a pay dispute. The strike action is planned to take place between 31 October and 7 November.\n\nRelated Articles\n- Co-op coffin factory workers to launch strike action: https://www.bbc.co.uk/news/uk-scotland-scotland-business-63302155 (Source: BBC)\n- Strike action set to hit Co-op coffin factory based in Glasgow: https://www.unitetheunion.org/news-events/news/2022/october/strike-action-set-to-hit-co-op-coffin-factory-based-in-glasgow/ (Source: Unite the Union)\n
@@ -143,7 +143,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221029
 DTEND;VALUE=DATE:20221030
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221024T223732Z-00016@strike.relevant.space
 CREATED:20221024T223732Z
 DESCRIPTION:The RMT announced that its ScotRail general grades members will take part in 24-hour strike action on Saturday, 29 October resulting from a pay dispute.\n\nRelated Articles\n- ScotRail staff to strike at the end of October after overtime ban: https://www.bbc.co.uk/news/uk-scotland-63251097 (Source: BBC)\n- RMT ScotRail strike - 29 October: https://www.scotrail.co.uk/plan-your-journey/passenger-disruption/industrial-action (Source: ScotRail)\n
@@ -158,7 +158,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221105
 DTEND;VALUE=DATE:20221106
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221024T230325Z-00017@strike.relevant.space
 CREATED:20221024T230325Z
 DESCRIPTION:Disruptions to national rail and some TfL services that share track with Network Rail.\n\nRelated Articles\n- Train strikes: What are the dates and which lines are affected?: https://www.bbc.co.uk/news/business-61634959 (Source: BBC)\n- National rail strikes suspended: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -173,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221010
 DTEND;VALUE=DATE:20221011
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221025T000208Z-00019@strike.relevant.space
 CREATED:20221025T000208Z
 DESCRIPTION:RMT members working on buses in Somerset, and Cornwall will take strike action for four days from October 10, in a fight over pay and conditions.\n\nRelated Articles\n- Bus workers in Somerset and Cornwall announce strike action: https://www.bbc.co.uk/news/uk-england-somerset-63186004 (Source: BBC)\n- Bus Workers to Take Strike Action: https://www.rmt.org.uk/news/bus-workers-to-take-strike-action/ (Source: RMT)\n
@@ -188,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221021
 DTEND;VALUE=DATE:20221022
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221025T000208Z-00020@strike.relevant.space
 CREATED:20221025T000208Z
 DESCRIPTION:RMT members working on buses in Somerset, and Cornwall will take strike action for four days from October 10, in a fight over pay and conditions.\n\nRelated Articles\n- Bus workers in Somerset and Cornwall announce strike action: https://www.bbc.co.uk/news/uk-england-somerset-63186004 (Source: BBC)\n- Bus Workers to Take Strike Action: https://www.rmt.org.uk/news/bus-workers-to-take-strike-action/ (Source: RMT)\n
@@ -203,7 +203,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221104
 DTEND;VALUE=DATE:20221105
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221025T000208Z-00021@strike.relevant.space
 CREATED:20221025T000208Z
 DESCRIPTION:RMT members working on buses in Somerset, and Cornwall will take strike action for four days from October 10, in a fight over pay and conditions.\n\nRelated Articles\n- Bus workers in Somerset and Cornwall announce strike action: https://www.bbc.co.uk/news/uk-england-somerset-63186004 (Source: BBC)\n- Bus Workers to Take Strike Action: https://www.rmt.org.uk/news/bus-workers-to-take-strike-action/ (Source: RMT)\n
@@ -218,7 +218,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221111
 DTEND;VALUE=DATE:20221112
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221025T000208Z-00022@strike.relevant.space
 CREATED:20221025T000208Z
 DESCRIPTION:RMT members working on buses in Somerset, and Cornwall will take strike action for four days from October 10, in a fight over pay and conditions.\n\nRelated Articles\n- Bus workers in Somerset and Cornwall announce strike action: https://www.bbc.co.uk/news/uk-england-somerset-63186004 (Source: BBC)\n- Bus Workers to Take Strike Action: https://www.rmt.org.uk/news/bus-workers-to-take-strike-action/ (Source: RMT)\n
@@ -233,7 +233,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221022
 DTEND;VALUE=DATE:20221031
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221025T213131Z-00023@strike.relevant.space
 CREATED:20221025T213131Z
 DESCRIPTION:PCS members announce nine-day strike across 65 magistrates’ courts in England and Wales over controversial Common Platform system.\n\nRelated Articles\n- PCS members announce nine-day courts strike: https://www.pcs.org.uk/news-events/news/pcs-members-announce-nine-day-courts-strike (Source: PCS)\n- HMCTS Common Platform Dispute: Strike FAQ: https://www.pcs.org.uk/news-events/news/hmcts-common-platform-dispute-strike-faq (Source: PCS)\n- Court IT system 'putting justice at risk', staff claim: https://www.bbc.co.uk/news/uk-62722855 (Source: BBC)\n
@@ -248,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221124
 DTEND;VALUE=DATE:20221126
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221103T004102Z-00024@strike.relevant.space
 CREATED:20221103T004102Z
 DESCRIPTION:Royal Mail workers are taking strike action over pay and conditions which will include two 48-hour strikes around the weeks of Black Friday and Cyber Monday.\n\nRelated Articles\n- Royal Mail workers walk out in first of 19 days of strikes: https://www.bbc.co.uk/news/business-63235826 (Source: BBC)\n- Royal Mail Group Strike: https://www.cwu.org/rmgstrikeinfo (Source: CWU)\n- Services during Industrial Action: https://www.royalmail.com/latest-news (Source: Royal Mail)\n- Royal Mail staff call off planned strike action: https://www.bbc.co.uk/news/business-63446176 (Source: BBC)\n- Royal Mail postal workers to strike on Black Friday: https://www.bbc.co.uk/news/business-63478657 (Source: BBC)\n
@@ -263,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221130
 DTEND;VALUE=DATE:20221202
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221103T004102Z-00025@strike.relevant.space
 CREATED:20221103T004102Z
 DESCRIPTION:Royal Mail workers are taking strike action over pay and conditions which will include two 48-hour strikes around the weeks of Black Friday and Cyber Monday.\n\nRelated Articles\n- Royal Mail workers walk out in first of 19 days of strikes: https://www.bbc.co.uk/news/business-63235826 (Source: BBC)\n- Royal Mail Group Strike: https://www.cwu.org/rmgstrikeinfo (Source: CWU)\n- Services during Industrial Action: https://www.royalmail.com/latest-news (Source: Royal Mail)\n- Royal Mail staff call off planned strike action: https://www.bbc.co.uk/news/business-63446176 (Source: BBC)\n- Royal Mail postal workers to strike on Black Friday: https://www.bbc.co.uk/news/business-63478657 (Source: BBC)\n
@@ -278,7 +278,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221118
 DTEND;VALUE=DATE:20221121
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221104T131125Z-00026@strike.relevant.space
 CREATED:20221104T131125Z
 DESCRIPTION:Workers employed by Dnata and Menzies at Heathrow will take three days of strike action beginning on Friday 18 November, in a dispute over pay. The strike action could cause disruption and delays at Heathrow terminals 2, 3 and 4.\n\nRelated Articles\n- Workers at Heathrow to strike in World Cup run-up: https://www.bbc.co.uk/news/business-63510375 (Source: BBC)\n- World Cup travellers facing Heathrow flight woe as workers strike over pay: https://www.unitetheunion.org/news-events/news/2022/november/world-cup-travellers-facing-heathrow-flight-woe-as-workers-strike-over-pay/ (Source: Unite the Union)\n
@@ -293,7 +293,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221124
 DTEND;VALUE=DATE:20221126
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221110T133029Z-00027@strike.relevant.space
 CREATED:20221110T133029Z
 DESCRIPTION:University staff at 150 universities are taking strike action on 24, 25 and 30 November. \n\nRelated Articles\n- University staff to go on strike this month: https://www.bbc.co.uk/news/education-63561041 (Source: BBC)\n- Biggest ever university strikes set to hit UK campuses over pay, conditions & pensions: https://www.ucu.org.uk/article/12609/Biggest-ever-university-strikes-set-to-hit-UK-campuses-over-pay-conditions--pensions (Source: UCU)\n
@@ -308,7 +308,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221130
 DTEND;VALUE=DATE:20221201
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221110T133053Z-00028@strike.relevant.space
 CREATED:20221110T133053Z
 DESCRIPTION:University staff at 150 universities are taking strike action on 24, 25 and 30 November. \n\nRelated Articles\n- University staff to go on strike this month: https://www.bbc.co.uk/news/education-63561041 (Source: BBC)\n- Biggest ever university strikes set to hit UK campuses over pay, conditions & pensions: https://www.ucu.org.uk/article/12609/Biggest-ever-university-strikes-set-to-hit-UK-campuses-over-pay-conditions--pensions (Source: UCU)\n
@@ -323,7 +323,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221126
 DTEND;VALUE=DATE:20221127
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221112T235505Z-00029@strike.relevant.space
 CREATED:20221112T235505Z
 DESCRIPTION:Train drivers at 12 rail companies are taking strike action on 26 November. The strike comes as a part of an ongoing dispute over pay. The affected rail companies are:- Avanti West Coast- Chiltern Railways- CrossCountry- East Midlands Railway- Great Western Railway- Greater Anglia- London North Eastern Railway- London Overground- Northern Trains- Southeastern- Transpennine Express- West Midlands Trains\n\nRelated Articles\n- Train drivers will strike again over pay: https://www.bbc.co.uk/news/business-63585602 (Source: BBC)\n- ASLEF Announces Another Day of Strike Action: https://aslef.org.uk/publications/aslef-announces-another-day-strike-action (Source: ASLEF)\n
@@ -338,7 +338,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221128
 DTEND;VALUE=DATE:20221130
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221113T000959Z-00030@strike.relevant.space
 CREATED:20221113T000959Z
 DESCRIPTION:Scottish Ambulance Service workers are set to take strike action from 06:00 on 28 November to 7:59am 29 November in a dispute over pay.\n\nRelated Articles\n- Scottish Ambulance Service workers confirm winter strike dates: https://www.bbc.co.uk/news/uk-scotland-63608138 (Source: BBC)\n- Scottish Ambulance Service Strike Dates: https://www.gmbscotland.org.uk/newsroom/scottish-ambulance-service-strike-dates (Source: GMB Scotland)\n
@@ -353,7 +353,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221122
 DTEND;VALUE=DATE:20221123
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221116T164927Z-00031@strike.relevant.space
 CREATED:20221116T164927Z
 DESCRIPTION:Bus drivers based with Abellio will stage 10 days of strike action in November and December due to a dispute over pay.\n\nRelated Articles\n- London bus drivers to strike in run-up to Christmas: https://www.bbc.co.uk/news/uk-england-london-63584397 (Source: BBC)\n- Abellio bus drivers in South and West London announce 10 days of pay strikes: https://www.unitetheunion.org/news-events/news/2022/november/abellio-bus-drivers-in-south-and-west-london-announce-10-days-of-pay-strikes/ (Source: Unite the Union)\n- Bus strikes: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -368,7 +368,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221125
 DTEND;VALUE=DATE:20221127
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221116T164953Z-00032@strike.relevant.space
 CREATED:20221116T164953Z
 DESCRIPTION:Bus drivers based with Abellio will stage 10 days of strike action in November and December due to a dispute over pay.\n\nRelated Articles\n- London bus drivers to strike in run-up to Christmas: https://www.bbc.co.uk/news/uk-england-london-63584397 (Source: BBC)\n- Abellio bus drivers in South and West London announce 10 days of pay strikes: https://www.unitetheunion.org/news-events/news/2022/november/abellio-bus-drivers-in-south-and-west-london-announce-10-days-of-pay-strikes/ (Source: Unite the Union)\n- Bus strikes: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -383,7 +383,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221201
 DTEND;VALUE=DATE:20221204
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221116T165021Z-00033@strike.relevant.space
 CREATED:20221116T165021Z
 DESCRIPTION:Bus drivers based with Abellio will stage 10 days of strike action in November and December due to a dispute over pay.\n\nRelated Articles\n- London bus drivers to strike in run-up to Christmas: https://www.bbc.co.uk/news/uk-england-london-63584397 (Source: BBC)\n- Abellio bus drivers in South and West London announce 10 days of pay strikes: https://www.unitetheunion.org/news-events/news/2022/november/abellio-bus-drivers-in-south-and-west-london-announce-10-days-of-pay-strikes/ (Source: Unite the Union)\n- Bus strikes: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -398,7 +398,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221209
 DTEND;VALUE=DATE:20221211
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221116T165040Z-00034@strike.relevant.space
 CREATED:20221116T165040Z
 DESCRIPTION:Bus drivers based with Abellio will stage 10 days of strike action in November and December due to a dispute over pay.\n\nRelated Articles\n- London bus drivers to strike in run-up to Christmas: https://www.bbc.co.uk/news/uk-england-london-63584397 (Source: BBC)\n- Abellio bus drivers in South and West London announce 10 days of pay strikes: https://www.unitetheunion.org/news-events/news/2022/november/abellio-bus-drivers-in-south-and-west-london-announce-10-days-of-pay-strikes/ (Source: Unite the Union)\n- Bus strikes: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -413,7 +413,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221216
 DTEND;VALUE=DATE:20221218
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221116T165108Z-00035@strike.relevant.space
 CREATED:20221116T165108Z
 DESCRIPTION:Bus drivers based with Abellio will stage 10 days of strike action in November and December due to a dispute over pay.\n\nRelated Articles\n- London bus drivers to strike in run-up to Christmas: https://www.bbc.co.uk/news/uk-england-london-63584397 (Source: BBC)\n- Abellio bus drivers in South and West London announce 10 days of pay strikes: https://www.unitetheunion.org/news-events/news/2022/november/abellio-bus-drivers-in-south-and-west-london-announce-10-days-of-pay-strikes/ (Source: Unite the Union)\n- Bus strikes: https://tfl.gov.uk/campaign/strikes (Source: TfL)\n
@@ -428,7 +428,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20221124
 DTEND;VALUE=DATE:20221125
-DTSTAMP:20221217T234233Z
+DTSTAMP:20221224T234232Z
 UID:20221116T170224Z-00036@strike.relevant.space
 CREATED:20221116T170224Z
 DESCRIPTION:Teachers in Scotland are set to strike for 24 hours on November 24th over a pay dispute.\n\nRelated Articles\n- Teachers in Scotland to go on strike this month: https://www.bbc.co.uk/news/uk-scotland-63572743 (Source: BBC)\n- EIS to call Teachers out on Strike Action on 24 November: https://www.eis.org.uk/latest-news/strikedayannounced (Source: EIS)\n
